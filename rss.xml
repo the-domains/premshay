@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Premshay]]></title>
         <description><![CDATA[Premshay]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/premshay/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 17:09:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 17:10:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/premshay/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bio]]></title>
             <description><![CDATA[<article><h1>Bio</h1><p>Premshay Hermon has been involved in Israeli cultural life for the last decade. His versatility includes theatre, dance, music and visual art.
@@ -15,9 +15,9 @@ His art has reached audiences around the world, including New-Zealand, Japan and
 B.Ed in dance-theatre & education at the Kibbutzim Seminar; An ALMA fellowship grantee. 
 He lives with his wife and son in Israel.
 </p></article>]]></description>
-            <link>undefinedbio/index.html</link>
+            <link>https://thegrid.ai/premshay/bio/index.html</link>
             <guid isPermaLink="false">c5095eca-4993-4445-a0c9-8e5a7303b672</guid>
-            <pubDate>Tue, 29 Dec 2015 17:09:46 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 17:09:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
